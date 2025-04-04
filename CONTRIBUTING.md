@@ -47,10 +47,9 @@ the action you have taken to solve it.
 
 The aim of this repository is:
 
-  - To provide a README.md and assorted documents anyone can copy and
-    paste, into their project
+  - To learn coding and to win in screeps.
   - The content is usable by someone who hasn't written something like
-    this before
+    this before.
   - Foster a culture of respect and gratitude in the open source
     community.
 

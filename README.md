@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of the project description
+This is my repo for the game screeps. The intent is to have fun and to improve my abismal programming skills.
 
 Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
